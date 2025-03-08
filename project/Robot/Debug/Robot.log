@@ -1,0 +1,93 @@
+﻿  TextureApp.cpp
+e:\assignment\基礎電腦圖學\project3_g8\project\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\include\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\textureapp.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\textureapp.cpp(198): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+  targa.cpp
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\targa.cpp(110): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+  objloader.cpp
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(40): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(51): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(59): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(64): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(70): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(75): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(142): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(149): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(153): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(157): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(161): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\objloader.cpp(165): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 請參閱 'fscanf' 的宣告
+  main.cpp
+e:\assignment\基礎電腦圖學\project3_g8\project\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+e:\assignment\基礎電腦圖學\project3_g8\project\include\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(30): warning C4101: 'ShaderMenu': 未參考的區域變數
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(113): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(123): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(133): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(143): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(246): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(302): warning C4018: '<': signed/unsigned 不相符
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(337): warning C4018: '<': signed/unsigned 不相符
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(342): warning C4018: '<': signed/unsigned 不相符
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(467): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(453): warning C4101: 'roll': 未參考的區域變數
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(453): warning C4101: 'pitch': 未參考的區域變數
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(662): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(685): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+e:\assignment\基礎電腦圖學\project3_g8\project\robot\main.cpp(688): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  正在產生程式碼...
+  libpng16.lib(png.obj) : 找到 MSIL .netmodule 或以 /GL 編譯的模組。請以 /LTCG 重新啟動連結，將 /LTCG 加入連結命令列以提升連結器效能
+LINK : warning LNK4075: 忽略 '/INCREMENTAL'，由於 '/LTCG' 規格
+main.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/OPT:LBR' 規格
+LINK : warning LNK4098: 預設的程式庫 'LIBCMT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 預設的程式庫 'MSVCRT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+  正在產生程式碼
+  已完成程式碼產生
+libpng16.lib(png.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(png.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngread.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngread.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngerror.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngerror.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngget.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngget.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngwrite.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngwrite.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngwutil.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngwutil.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngmem.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngmem.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngrio.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngrio.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngrutil.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngrutil.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngrtran.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngrtran.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngtrans.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngtrans.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngset.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngset.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngwio.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngwio.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+libpng16.lib(pngwtran.obj) : warning LNK4099: 找不到 PDB 'libpng.pdb' (有 'libpng16.lib(pngwtran.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\libpng.pdb')，當做沒有偵錯資訊，連結物件
+zlib.lib(adler32.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlib.lib(adler32.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlib.lib(inflate.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlib.lib(inflate.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlib.lib(crc32.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlib.lib(crc32.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlib.lib(deflate.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlib.lib(deflate.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlib.lib(inftrees.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlib.lib(inftrees.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlib.lib(inffast.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlib.lib(inffast.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlib.lib(zutil.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlib.lib(zutil.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+zlib.lib(trees.obj) : warning LNK4099: 找不到 PDB 'zlib.pdb' (有 'zlib.lib(trees.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\zlib.pdb')，當做沒有偵錯資訊，連結物件
+glew32s.lib(glew.obj) : warning LNK4099: 找不到 PDB 'glew_static.pdb' (有 'glew32s.lib(glew.obj)' 或位於 'E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\glew_static.pdb')，當做沒有偵錯資訊，連結物件
+  Robot.vcxproj -> E:\assignment\基礎電腦圖學\Project3_G8\project\Robot\Debug\Robot.exe
